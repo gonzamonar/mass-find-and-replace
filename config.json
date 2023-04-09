@@ -1,0 +1,10 @@
+
+    {
+        "window_icon_name" : "find-replace-icon.ico",
+        "window_icon_url" : "https://raw.githubusercontent.com/gonzamonar/Resources/master/find-replace-icon.ico",
+        "explorer_img_name" : "file-explorer.png",
+        "explorer_img_url" : "https://raw.githubusercontent.com/gonzamonar/Resources/master/file-explorer.png",
+        "csv_path": "",
+        "window_size" : "300x450"
+    }
+    
